@@ -1,0 +1,12 @@
+Job ID: 22774002
+Array Job ID: 22773818_1
+Cluster: shen
+User/Group: fts8bh/users
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 2
+CPU Utilized: 00:00:11
+CPU Efficiency: 28.95% of 00:00:38 core-walltime
+Job Wall-clock time: 00:00:19
+Memory Utilized: 1.38 GB
+Memory Efficiency: 8.62% of 16.00 GB (16.00 GB/node)
